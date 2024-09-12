@@ -1,4 +1,4 @@
-# Sync an opentalks room status with a telegram group via bot
+# Opentalk 2 Telegram
 
 _clone git_
 `git clone`
